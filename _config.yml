@@ -1,0 +1,14 @@
+layout_spectrum: 0.4011843893676996
+typography_spectrum: 0.6084596328437328
+color:
+  brandStrength: 0.6346605478320271
+  lightness: 0.0657959443051368
+  saturation: 0.4746580848004669
+  rhythmicContrast: 0.050477981101721525
+  brandColors:
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
+name: dahoam
