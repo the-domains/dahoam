@@ -12,3 +12,7 @@ color:
     - '#547AB1'
     - '#CEAFC0'
 name: dahoam
+author:
+  name: Joerg Sahlmann
+  email: joerg@sahlmann.com
+  url: tech.sahlmann.com
